@@ -5,7 +5,7 @@ Rating system for wordpress plugin. This library will hlep to plugin developr to
 
 ## Use
 
-```
+```php
         require_once 'rating.php';
 
         (new \Wpmet\Rating\Rating())
